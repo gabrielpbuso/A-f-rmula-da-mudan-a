@@ -11,3 +11,5 @@ Ferramentas para aplicar o PDSA no dia a dia
 Inspiração para criar ciclos de evolução pessoal contínua
 
 Este repositório é ideal para quem busca aprender sobre PDSA, desenvolvimento pessoal e aplicações práticas de Inteligência Artificial Generativa na criação de materiais educativos.
+
+[A Fórmula da Mudança.pptx](https://github.com/user-attachments/files/23145991/A.Formula.da.Mudanca.pptx)
